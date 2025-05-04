@@ -26,13 +26,13 @@ Simple Tool That Take Full Control Of Android Device With In 10 min
 pkg install git
 pkg install python
 pkg install figlet
-git clone https://github.com/Kamanati/AndroHack
+git clone https://github.com/hasanfq6/AndroHack
 cd AndroHack
 bash AndroHack.sh
 ```
 ### Installation with in single line 
 ```bash
-git clone https://github.com/Kamanati/AndroHack && cd AndroHack && bash AndroHack.sh
+git clone https://github.com/hasanfq6/AndroHack && cd AndroHack && bash AndroHack.sh
 ```
 ## video
 <p align="center"> <a href="https://youtu.be/sROPRHw-1RM"><img title="Made in INDIA" width="58%" src="/.img/20220702_095136_0000.png"></a>
@@ -41,7 +41,7 @@ git clone https://github.com/Kamanati/AndroHack && cd AndroHack && bash AndroHac
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hasanfq6/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
